@@ -1,0 +1,252 @@
+{
+    "1": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Barcelona played beautiful football today, the passing was so clean and exciting to watch.",
+        "tweet_url": "typed"
+    },
+    "2": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Real Madrid never gives up, that comeback was unbelievable.",
+        "tweet_url": "typed"
+    },
+    "3": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Inter looked so organized tonight, the whole team worked perfectly together.",
+        "tweet_url": "typed"
+    },
+    "4": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "What a goal from Barcelona, absolutely amazing finish.",
+        "tweet_url": "typed"
+    },
+    "5": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Madrid fans should be proud, the team showed real character.",
+        "tweet_url": "typed"
+    },
+    "6": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Inter's defense was fantastic, they controlled the game so well.",
+        "tweet_url": "typed"
+    },
+    "7": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Barcelona's young players are so talented, the future looks bright.",
+        "tweet_url": "typed"
+    },
+    "8": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Real Madrid's atmosphere at the stadium is always incredible.",
+        "tweet_url": "typed"
+    },
+    "9": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Inter deserved the win, they were focused from the first minute.",
+        "tweet_url": "typed"
+    },
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "That Barcelona performance made my day, such enjoyable football.",
+        "tweet_url": "typed"
+    },
+    "11": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Madrid played with confidence and energy, really impressive match.",
+        "tweet_url": "typed"
+    },
+    "12": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Forza Inter, this team keeps making me proud.",
+        "tweet_url": "typed"
+    },
+    "13": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Barcelona's midfield was brilliant today, they controlled everything.",
+        "tweet_url": "typed"
+    },
+    "14": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Real Madrid showed why they are one of the best clubs in the world.",
+        "tweet_url": "typed"
+    },
+    "15": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Inter fans were amazing tonight, the support was beautiful to see.",
+        "tweet_url": "typed"
+    },
+    "16": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Great result for Barcelona, the team really deserved it.",
+        "tweet_url": "typed"
+    },
+    "17": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Madrid's goalkeeper was outstanding, he saved the team more than once.",
+        "tweet_url": "typed"
+    },
+    "18": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona looked completely lost today, the defending was terrible.",
+        "tweet_url": "typed"
+    },
+    "19": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Real Madrid wasted too many chances, this result is really disappointing.",
+        "tweet_url": "typed"
+    },
+    "20": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Inter played too slowly and made the match boring to watch.",
+        "tweet_url": "typed"
+    },
+    "21": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona needs to fix this defense, the mistakes are embarrassing.",
+        "tweet_url": "typed"
+    },
+    "22": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Madrid's performance was poor, no urgency and no creativity.",
+        "tweet_url": "typed"
+    },
+    "23": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Inter should have won this game, dropping points like this is frustrating.",
+        "tweet_url": "typed"
+    },
+    "24": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona fans deserve better than this careless performance.",
+        "tweet_url": "typed"
+    },
+    "25": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Real Madrid's substitutions made no sense today.",
+        "tweet_url": "typed"
+    },
+    "26": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Inter's attack was weak, they barely created any real chances.",
+        "tweet_url": "typed"
+    },
+    "27": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona gave the ball away too many times, very annoying to watch.",
+        "tweet_url": "typed"
+    },
+    "28": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Madrid looked tired and confused for most of the match.",
+        "tweet_url": "typed"
+    },
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Inter's finishing was awful, they should have scored at least twice.",
+        "tweet_url": "typed"
+    },
+    "30": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Another disappointing night for Barcelona, this was not good enough.",
+        "tweet_url": "typed"
+    },
+    "31": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Real Madrid's defense was shocking in the second half.",
+        "tweet_url": "typed"
+    },
+    "32": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Inter made simple passes look difficult today.",
+        "tweet_url": "typed"
+    },
+    "33": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona's coach needs to change something because this is not working.",
+        "tweet_url": "typed"
+    },
+    "34": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Madrid losing like this hurts, especially after such a weak performance.",
+        "tweet_url": "typed"
+    },
+    "35": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona will play their next league match on Sunday evening.",
+        "tweet_url": "typed"
+    },
+    "36": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Real Madrid announced the starting eleven before kickoff.",
+        "tweet_url": "typed"
+    },
+    "37": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Inter posted photos from today's training session.",
+        "tweet_url": "typed"
+    },
+    "38": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona shared the match schedule for this week.",
+        "tweet_url": "typed"
+    },
+    "39": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Real Madrid confirmed that tickets are available online.",
+        "tweet_url": "typed"
+    },
+    "40": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Inter's press conference will take place tomorrow afternoon.",
+        "tweet_url": "typed"
+    },
+    "41": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona's official account posted the final score after the match.",
+        "tweet_url": "typed"
+    },
+    "42": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Real Madrid uploaded a video from the team's warm-up.",
+        "tweet_url": "typed"
+    },
+    "43": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Inter will face their next opponent at home this weekend.",
+        "tweet_url": "typed"
+    },
+    "44": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona listed the players included in the matchday squad.",
+        "tweet_url": "typed"
+    },
+    "45": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Real Madrid's training session started at 10 a.m.",
+        "tweet_url": "typed"
+    },
+    "46": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Inter announced the date of the next fixture.",
+        "tweet_url": "typed"
+    },
+    "47": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona posted a photo of the players arriving at the stadium.",
+        "tweet_url": "typed"
+    },
+    "48": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Real Madrid shared information about the club shop opening hours.",
+        "tweet_url": "typed"
+    },
+    "49": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Inter's official account reminded fans about the ticket deadline.",
+        "tweet_url": "typed"
+    },
+    "50": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Barcelona's match report is now available on the club website.",
+        "tweet_url": "typed"
+    }
+}
